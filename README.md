@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Christelle LECAMP</h1>
-<h3 align="center">Analyze, structure, code; this is my essence!</h3>
+<h3 align="center">Analyzing, structuring, coding; this is my essence!</h3>
 
-- 👨‍💻 All of my projects are available at [on the making](on the making)
+- 👨‍💻 All of my projects are available at (on the making...)
 
 - 📫 How to reach me **christelle.lecamp@gmail.com**
 
